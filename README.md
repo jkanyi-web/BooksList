@@ -114,9 +114,11 @@ In order to run this project you need:
 - GitHub: [@Naledi-Dikgale](https://github.com/Naledi-Dikgale)
 - LinkedIn: [Naledi-Dikgale](https://www.linkedin.com/in/naledi-dikgale-068423159/)
 
-👤 **Author3**
+👤 **Author 3**
 
-- GitHub: [@Kanyi](https://github.com/jkanyi-web)
+- GitHub: [@jkanyi-web](https://github.com/jkanyi-web)
+- Twitter: [@twitterhandle](https://twitter.com/jkanyi757)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kanyi-kanyi-6668aa188/)
 
 <!-- FUTURE FEATURES -->
 
